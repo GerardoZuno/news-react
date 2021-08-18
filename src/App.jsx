@@ -1,4 +1,5 @@
 import React from 'react'
+import Form from './components/Form'
 import Header from './components/Header'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <>
       <Header titulo="Buscador de Noticias"/>
       <div className="container white">
-        <h1>Formulario Aqui</h1>
+        <Form />
 
       </div>
     </>
