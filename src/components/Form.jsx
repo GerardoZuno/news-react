@@ -36,6 +36,7 @@ const Form = ({setCategoria}) => {
             
           />
         </form>
+        
       </div>
     </div>
   );
